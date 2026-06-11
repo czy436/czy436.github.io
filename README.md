@@ -16,11 +16,6 @@ CS undergrad → AI master
 - 🌱 Currently exploring **Machine Learning, Deep Learning, NLP**
 - 💡 Interested in building practical AI applications
 
-### 🛠️ Tech Stack
-
-`Python` `C/C++` `Java` `JavaScript`
-`PyTorch` `TensorFlow` `Linux` `Git`
-
 ### 📫 Contact
 
 Feel free to reach out via [GitHub Issues](https://github.com/czy436/issues)
