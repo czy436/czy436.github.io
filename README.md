@@ -18,7 +18,7 @@ CS undergrad → AI master
 
 ### 📫 Contact
 
-Feel free to reach out via [GitHub Issues](https://github.com/czy436/issues)
+Feel free to reach out via [email](mailto:accelerator040306@gmail.com)
 
 ---
 
